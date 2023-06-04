@@ -1,5 +1,11 @@
 package day1;
 
+/**
+ * 백준 10172번 개
+ * 문제 분류 : 구현
+ * @author giro
+ */
+
 public class No10172 {
     public static void main(String[] args) {
         System.out.println("|\\_/|");

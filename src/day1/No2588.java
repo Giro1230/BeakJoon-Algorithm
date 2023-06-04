@@ -2,6 +2,12 @@ package day1;
 
 import java.util.Scanner;
 
+/**
+ * 백준 2588번 곱셈
+ * 문제 분류 : 수학, 사칙연산
+ * @author giro
+ */
+
 public class No2588 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
